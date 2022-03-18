@@ -3,4 +3,4 @@
 const ciag_1 = 'Java';
 const ciag_2 = 'Script';
 
-console.log(`${ciag_1}${ciag_2}`);
+console.log(`Polaczony ciag znakow: ${ciag_1 + ciag_2}`);
