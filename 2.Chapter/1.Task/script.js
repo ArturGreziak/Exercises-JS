@@ -2,4 +2,4 @@
 
 const liczba = parseInt(prompt());
 
-console.log(liczba);
+console.log(`Podana liczba: ${liczba}`);
