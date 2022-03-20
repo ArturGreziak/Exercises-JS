@@ -8,4 +8,4 @@ if (suma === 180 && a > 0 && b > 0 && c > 0) {
     
     console.log(`Trojkat(${a}, ${b}, ${c}) jest poprawny`); 
     
-    } else { console.log(`Trojkat(${a}, ${b}, ${c}) nie jest poprawny`) }
+    } else { console.log(`Trojkat(${a}, ${b}, ${c}) nie jest poprawny`); }
